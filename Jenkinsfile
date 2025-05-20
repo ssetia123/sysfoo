@@ -23,6 +23,12 @@ pipeline {
       }
     }
 
+    stage('post-build') {
+      steps {
+        echo 'pipeline complete'
+      }
+    }
+
   }
   tools {
     maven 'Maven 3.6.3'
