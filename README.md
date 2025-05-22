@@ -1,6 +1,6 @@
 
 # Sysfoo Application
-Hi, there! Applied first rule!
+Hi, reviewer! Applied first rule! Please review!
 A Devops Learning App 
 
 ## About the Application
